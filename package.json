@@ -1,0 +1,14 @@
+{
+    "name": "chatgpt",
+    "version": "1.0.0",
+    "description": "A simple chat interface connected to ChatGPT.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "discord.js": "^14.9.0",
+        "dotenv": "^16.0.3",
+        "openai": "^3.2.1"
+    }
+}
