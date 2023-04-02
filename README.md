@@ -1,5 +1,8 @@
-# openai-chatbot-practice
- 
+# OpenAI Chatbot with Discord
+This is an OpenAI Chatbot that works on Discord, written with NodeJS. 
+
+** It is just for Practice **
+
 ## Prerequisites
 
 - A Discord bot(You can create it at [Discord Developer Portal](https://discord.com/developers/applications))
