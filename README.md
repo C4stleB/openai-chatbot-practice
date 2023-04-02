@@ -6,8 +6,15 @@
 - Node.js v16+ installed on your machine
 - An OpenAI API key
 
+## Install node modules
+Install required modules with the following command:
+
+```
+npm install
+```
+
 ## Run application
-run your Node.js application in your terminal with the following command:
+Run your Node.js application in your terminal with the following command:
 
 ```
 npm start
